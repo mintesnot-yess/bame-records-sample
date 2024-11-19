@@ -20,13 +20,13 @@ let musics = [
     artist: "negestat",
     title: "Ere ",
     albem_art: "negestat1.jpg",
-    music: "Negestat - Eree (Official Music Video) (mp3cut.net) (1).mp3",
+    music: "Negestat-Eree.mp3",
     link: "https://www.youtube.com/watch?v=wbfCiClxLlM ",
     "created-at": null
   },
   {
-    artist: "selena gomez",
-    title: "im so far",
+    artist: "Se Acabo",
+    title: "The Beatnuts",
     albem_art: "freepik__candid-image-photography-natural-textures-highly-r__57292.jpeg",
     music: "Se Acabo Remix (Explicit) - The Beatnuts Feat. Method Man TikTok dance.mp3",
     link: "https://www.youtube.com/watch?v=wbfCiClxLlM",
